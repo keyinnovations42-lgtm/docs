@@ -43,4 +43,9 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 ## Ownership
 
 Owner: Eric Brammer  
-Status: Original work
+Status: 
+Created by Eric Brammer
+
+Original concept and implementation
+
+© 2025
